@@ -8,9 +8,9 @@ I studied Economics and then completed a Master's in **Data Science for Social S
 
 ### 🌍 What I've been working on
 
-- **Geospatial pipeline in the energy sector** — During my internship in a Data Science & Tech Lab, I built a Python pipeline that went from raw cartographic data to market analysis, with the results delivered in Power BI reports. This became my master's project.
-- **Perceived Tourist Attractiveness Index** — An index of tourist attractiveness for the Porto Metropolitan Area, built from Google Places API data.
-- **Spatial econometrics** — Rental-price analysis in the Porto Metropolitan Area using OLS, SAR and GWR models.
+- **Geospatial pipeline in the energy sector**: During my internship in a Data Science & Tech Lab, I built a Python pipeline that went from raw cartographic data to market analysis, with the results delivered in Power BI reports. This became my master's project.
+- **Perceived Tourist Attractiveness Index**: An index of tourist attractiveness for the Porto Metropolitan Area, built from Google Places API data.
+- **Spatial econometrics**: Rental-price analysis in the Porto Metropolitan Area using OLS, SAR and GWR models.
 
 ---
 
