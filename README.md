@@ -8,7 +8,7 @@ I studied Economics and then completed a Master's in **Data Science for Social S
 
 ### 🌍 What I've been working on
 
-- **[Postal & Administrative Reference – Portugal and Spain](https://github.com/biaacsaantos/postal-admin-reference-pt-es)**: A geospatial pipeline (GeoPandas, PostGIS) that joins postal codes, localities, municipalities, districts and NUTS regions from Eurostat and CAOP into one consistent reference, with topology-preserving geometry simplification and outputs ready for Power BI. Adapted from the pipeline I built during my internship in a Data Science & Tech Lab in the energy sector, using public data only.
+- **[Postal & Administrative Reference – Portugal and Spain](https://github.com/biaacsaantos/postal-admin-reference-pt-es)**: A geospatial pipeline (GeoPandas, PostGIS) that joins postal codes, localities, municipalities, districts and NUTS regions from Eurostat and CAOP into one consistent reference, with topology-preserving geometry simplification and outputs ready for Power BI. Adapted from the pipeline I built during my internship in the energy sector, using public data only.
 - **[Synthetic Sales – Sports & Outdoor Retail](https://github.com/biaacsaantos/synthetic-sales-pt-es)**: Five years of synthetic daily sales for a fictitious retail chain, generated with a simple multiplicative model (seasonality, geography, promotions, growth), validated with charts and loaded into a PostgreSQL star schema linked to real geography.
 
 ---
